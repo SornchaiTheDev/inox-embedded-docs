@@ -114,7 +114,7 @@ you can get `DASHBOARD-ID` from Superset Website at Embed Dashboard
 ```
 {% endcode %}
 
-### React JS
+### React JS (Not Deployed yet)
 
 1. Install `useEmbedded` hook from npm
 
